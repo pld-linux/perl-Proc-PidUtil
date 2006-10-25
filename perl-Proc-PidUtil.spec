@@ -8,12 +8,12 @@
 Summary:	Proc::PidUtil - PID file management utilities
 Summary(pl):	Proc::PidUtil - narzêdzia do zarz±dzania plikami PID
 Name:		perl-Proc-PidUtil
-Version:	0.07
-Release:	0.1
+Version:	0.08
+Release:	1
 License:	GPL v2+
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	4b3781435f1f6316d5109dc2b52724d8
+# Source0-md5:	daaa80a8b2595f3bc47daed6e7d81e97
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
