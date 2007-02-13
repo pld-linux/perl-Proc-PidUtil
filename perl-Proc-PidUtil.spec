@@ -6,7 +6,7 @@
 %define	pdir	Proc
 %define	pnam	PidUtil
 Summary:	Proc::PidUtil - PID file management utilities
-Summary(pl.UTF-8):   Proc::PidUtil - narzędzia do zarządzania plikami PID
+Summary(pl.UTF-8):	Proc::PidUtil - narzędzia do zarządzania plikami PID
 Name:		perl-Proc-PidUtil
 Version:	0.08
 Release:	1
