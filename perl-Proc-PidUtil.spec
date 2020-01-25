@@ -4,7 +4,6 @@
 
 %define	pdir	Proc
 %define	pnam	PidUtil
-%include	/usr/lib/rpm/macros.perl
 Summary:	Proc::PidUtil - PID file management utilities
 Summary(pl.UTF-8):	Proc::PidUtil - narzędzia do zarządzania plikami PID
 Name:		perl-Proc-PidUtil
